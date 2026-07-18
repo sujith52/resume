@@ -9,9 +9,7 @@ This project was developed as a submission for the **ROOMAN AI – 24 Hour AI Ag
 
 ## 🎥 Project Demo
 
-<video controls width="100%">
-    <source src="https://private-user-images.githubusercontent.com/148097955/623561790-a0b3687c-5e7a-4213-a189-7965799640c5.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQzODA0MzAsIm5iZiI6MTc4NDM4MDEzMCwicGF0aCI6Ii8xNDgwOTc5NTUvNjIzNTYxNzkwLWEwYjM2ODdjLTVlN2EtNDIxMy1hMTg5LTc5NjU3OTk2NDBjNS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxOFQxMzA4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDQ2YjZlYzc3Nzk2MTA1YmI5ZDcyYjcwNzFmZjg3ODAyMWU3MjYxZmE5MmVlZjhhZTRhOTUyYjNhZWZlYjhkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9dmlkZW8lMkZtcDQifQ.nsdQ3jt2UzGiGDnu3PoxH9h1ofTWlOPhp8mIvCiI9Ek" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/a0b3687c-5e7a-4213-a189-7965799640c5
 ## Features
 
 * Parse resumes from PDF, DOCX, and TXT files
