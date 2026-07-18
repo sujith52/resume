@@ -1,0 +1,20 @@
+Python Backend Developer
+
+Required Skills:
+- Python
+- FastAPI
+- SQL
+- Git
+- REST API
+- PostgreSQL
+
+Preferred Skills:
+- Docker
+- AWS
+- Machine Learning
+
+Experience:
+2+ years
+
+Education:
+Bachelor's Degree in Computer Science or related field
