@@ -105,7 +105,7 @@ resume/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sujith52/ai-resume-analyzer.git
+git clone https://github.com/sujith52/resume.git
 cd ai-resume-analyzer
 ```
 
