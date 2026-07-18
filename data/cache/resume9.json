@@ -1,0 +1,33 @@
+{
+    "name": "Dev Raj Singh",
+    "skills": [
+        "Full stack development",
+        "Problem Solving",
+        "Optimization",
+        "REST API",
+        "SQL",
+        "CI/CD",
+        "DevOps",
+        "JavaScript",
+        "TypeScript",
+        "Next.js",
+        "Python",
+        "PostgreSQL",
+        "Redis",
+        "React",
+        "Mongo DB",
+        "Node js",
+        "GIT",
+        "Docker",
+        "AWS",
+        "Unit Testing",
+        "HTML",
+        "CSS",
+        "C#",
+        "Django",
+        "Flask",
+        "MySQL"
+    ],
+    "experience_years": 1.7,
+    "education": "B.Tech. in Computer Science and Engineering, Maulana Abul Kalam Azad University of Technology"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "MICHAEL T GERVASONI",
+    "skills": [
+        "JavaScript",
+        "PHP",
+        "Ruby",
+        "Python",
+        "C",
+        "React",
+        "Rails",
+        "Express",
+        "CodeIgniter",
+        "HTML5",
+        "CSS3",
+        "MySQL",
+        "Postgres",
+        "Node.js",
+        "Git",
+        "Linux",
+        "LabVIEW",
+        "Regex",
+        "Command Line",
+        "RSpec",
+        "Cabybara",
+        "Enzyme",
+        "MATLAB",
+        "R"
+    ],
+    "experience_years": 7.5,
+    "education": "B.S. Materials Engineering, UCLA (March 2017); Full-Stack Web Dev Program, Learn Academy (June 2018); A.A.S Marketing"
+}
