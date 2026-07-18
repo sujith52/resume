@@ -1,0 +1,31 @@
+{
+    "name": "Sujith Kumar Gavathakatla",
+    "skills": [
+        "Python",
+        "C",
+        "SQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java",
+        "SAP Fundamentals",
+        "SAP ABAP",
+        "React",
+        "Node.js",
+        "FastAPI",
+        "TailwindCSS",
+        "Git",
+        "VS Code",
+        "GitHub",
+        "Postman",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "PostgreSQL",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM"
+    ],
+    "experience_years": 0.25,
+    "education": "Bachelor of Technology in Computer Science and Engineering, Aditya College of Engineering"
+}

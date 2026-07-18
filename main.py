@@ -1,28 +1,20 @@
-from pathlib import Path
-import json
+from fastapi import FastAPI
 
-from app.parser.resume_parser import extract_text
-from app.parser.jd_loader import load_job_description
-from app.scorer.scorer import calculate_similarity
-from app.extractor.extractor import extract_resume_data
-
-resume_path = Path("data/resumes/resume.pdf")
-jd_path = Path("data/jd.txt")
-
-resume_text = extract_text(resume_path)
-jd_text = load_job_description(jd_path)
+from app.api.routes import router
 
 
-score = calculate_similarity(jd_text, resume_text)
+app = FastAPI(
+    title="AI Resume Screening Agent",
+    description="API for ranking resumes against job descriptions",
+    version="1.0"
+)
 
-print("=" * 50)
-print("Resume Screening Result")
-print("=" * 50)
 
-print(f"Similarity Score: {score:.2f}")
+app.include_router(router)
 
-print("=" * 50)
 
-resume_data = extract_resume_data(resume_text)
-
-print(json.dumps(resume_data, indent=4))
+@app.get("/")
+def home():
+    return {
+        "message": "Resume Screening API is running"
+    }

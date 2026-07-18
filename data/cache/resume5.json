@@ -1,0 +1,17 @@
+{
+    "name": "James Ryan",
+    "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React.js",
+        "jQuery",
+        "Angular.js",
+        "Node.js",
+        "MongoDB",
+        "SQL",
+        "AJAX/JSON"
+    ],
+    "experience_years": 4,
+    "education": "B.S. Computer Science, University of Indiana"
+}
